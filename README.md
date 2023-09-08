@@ -4,5 +4,3 @@
 We are mainly developing microservices with the tech stack:
 
 Java / Spring Boot, Angular2+, Kafka, Docker, Kubernetes 🚀
-
-Besides regular work I am getting more and more into Python and Data Science 
